@@ -18,7 +18,7 @@ data-platform-fundamentals/
 ## The 7 Criteria
 
 | # | Criteria |
-|---|---|---|
+|---|---|
 | 1 | [Data Modeling & Schema Design](./01-fundamentals.md#1-data-modeling--schema-design) |
 | 2 | [Physical Storage & Layout](./01-fundamentals.md#2-physical-storage--layout) |
 | 3 | [Data Ingestion](./01-fundamentals.md#3-data-ingestion) | 
