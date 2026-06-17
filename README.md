@@ -17,15 +17,15 @@ data-platform-fundamentals/
 
 ## The 7 Criteria
 
-| # | Criteria | Sub-criteria count |
+| # | Criteria |
 |---|---|---|
-| 1 | [Data Modeling & Schema Design](./01-fundamentals.md#1-data-modeling--schema-design) | 6 |
-| 2 | [Physical Storage & Layout](./01-fundamentals.md#2-physical-storage--layout) | 8 |
-| 3 | [Data Ingestion](./01-fundamentals.md#3-data-ingestion) | 2 |
-| 4 | [Query & Compute Execution](./01-fundamentals.md#4-query--compute-execution) | 8 |
-| 5 | [Precomputation & Reuse](./01-fundamentals.md#5-precomputation--reuse) | 3 |
-| 6 | [Operations & Lifecycle](./01-fundamentals.md#6-operations--lifecycle) | 4 |
-| 7 | [Observability](./01-fundamentals.md#7-observability) | 4 |
+| 1 | [Data Modeling & Schema Design](./01-fundamentals.md#1-data-modeling--schema-design) |
+| 2 | [Physical Storage & Layout](./01-fundamentals.md#2-physical-storage--layout) |
+| 3 | [Data Ingestion](./01-fundamentals.md#3-data-ingestion) | 
+| 4 | [Query & Compute Execution](./01-fundamentals.md#4-query--compute-execution) | 
+| 5 | [Precomputation & Reuse](./01-fundamentals.md#5-precomputation--reuse) | 
+| 6 | [Operations & Lifecycle](./01-fundamentals.md#6-operations--lifecycle) | 
+| 7 | [Observability](./01-fundamentals.md#7-observability) |
 
 **Total: 35 sub-criteria across 7 categories**
 
